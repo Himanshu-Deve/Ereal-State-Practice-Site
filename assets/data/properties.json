@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Modern 2BHK Apartment in Gurugram",
+    "room_type": "2BHK",
+    "price": 9500000,
+    "location": "Gurugram, HR",
+    "type": "Apartment",
+    "beds": 2,
+    "baths": 2,
+    "area": 1150,
+    "image_thumbnail": "https://images.unsplash.com/photo-1560448204-0b057cad1f17?q=80&w=1200&auto=format&fit=crop",
+    "description": "Bright, airy apartment with stunning city view near Cyber Hub."
+  },
+  {
+    "id": 2,
+    "title": "Luxury 3BHK Villa in Sohna Road",
+    "room_type": "3BHK",
+    "price": 22000000,
+    "location": "Sohna Road, Gurugram",
+    "type": "Villa",
+    "beds": 3,
+    "baths": 3,
+    "area": 2400,
+    "image_thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+    "description": "Spacious villa with private garden and two-car parking."
+  },
+  {
+    "id": 3,
+    "title": "Cozy Studio Apartment",
+    "room_type": "Studio",
+    "price": 4800000,
+    "location": "DLF Phase 3, Gurugram",
+    "type": "Studio",
+    "beds": 1,
+    "baths": 1,
+    "area": 600,
+    "image_thumbnail": "https://images.unsplash.com/photo-1600585154350-7c9ae2f7f76e?q=80&w=1200&auto=format&fit=crop",
+    "description": "Ideal for singles or working professionals. Compact and modern."
+  }
+]
