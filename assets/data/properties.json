@@ -9,7 +9,16 @@
     "beds": 2,
     "baths": 2,
     "area": 1150,
-    "image_thumbnail": "https://images.unsplash.com/photo-1560448204-0b057cad1f17?q=80&w=1200&auto=format&fit=crop",
+    "image_thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+    "images_gallery": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop"
+    ],
+    "architecture_image": "https://im.proptiger.com/2/5208748/12/subhadra-estates-royale-town-floor-plan-1bhk-1t-1rk-320-sq-ft-443536.jpeg?width=800&height=620",
+    "bouchure_url": "https://www.example.com/brochure/studio-apartment.pdf",
+    "latitude": 28.4595,
+    "longitude": 77.0266,
     "description": "Bright, airy apartment with stunning city view near Cyber Hub."
   },
   {
@@ -23,6 +32,21 @@
     "baths": 3,
     "area": 2400,
     "image_thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+    "images_gallery": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1501183638714-5cbb4c2f9b4a?q=80&w=1200&auto=format&fit=crop"
+    ],
+    "architecture_image": "https://images.unsplash.com/photo-1501183638714-5cbb4c2f9b4a?q=80&w=1200&auto=format&fit=crop",
+    "bouchure_url": "https://www.example.com/brochure/studio-apartment.pdf",
+    "latitude": 28.4595,
+    "longitude": 77.0266,
     "description": "Spacious villa with private garden and two-car parking."
   },
   {
@@ -35,7 +59,16 @@
     "beds": 1,
     "baths": 1,
     "area": 600,
-    "image_thumbnail": "https://images.unsplash.com/photo-1600585154350-7c9ae2f7f76e?q=80&w=1200&auto=format&fit=crop",
+    "image_thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+    "images_gallery": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1560448070-8b6f2f3f4b3e?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1501183638714-5cbb4c2f9b4a?q=80&w=1200&auto=format&fit=crop"
+    ],
+    "architecture_image": "https://images.unsplash.com/photo-1501183638714-5cbb4c2f9b4a?q=80&w=1200&auto=format&fit=crop",
+    "bouchure_url": "https://www.example.com/brochure/studio-apartment.pdf",
+    "latitude": 28.4595,
+    "longitude": 77.0266,
     "description": "Ideal for singles or working professionals. Compact and modern."
   }
 ]

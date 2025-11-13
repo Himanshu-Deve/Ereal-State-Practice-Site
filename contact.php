@@ -64,31 +64,31 @@
         </div>
       </div>
 
-      <!-- Form -->
+      <!-- Contact Form -->
       <div class="bg-white p-8 rounded-2xl shadow-lg border border-gray-100">
         <h2 class="text-2xl font-semibold mb-6">Send Us a Message</h2>
-        <form class="space-y-5">
+        <form action="contact_mail.php" method="POST" class="space-y-5">
           <div>
             <label class="text-sm font-medium">Full Name</label>
-            <input type="text" required 
+            <input type="text" name="name" required 
               class="mt-1 w-full rounded-md border border-gray-300 px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent" />
           </div>
 
           <div>
             <label class="text-sm font-medium">Email Address</label>
-            <input type="email" required 
+            <input type="email" name="email" required 
               class="mt-1 w-full rounded-md border border-gray-300 px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent" />
           </div>
 
           <div>
             <label class="text-sm font-medium">Phone Number</label>
-            <input type="tel" required 
+            <input type="tel" name="phone" required 
               class="mt-1 w-full rounded-md border border-gray-300 px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent" />
           </div>
 
           <div>
             <label class="text-sm font-medium">Message</label>
-            <textarea rows="5" required 
+            <textarea name="message" rows="5" required 
               class="mt-1 w-full rounded-md border border-gray-300 px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"></textarea>
           </div>
 

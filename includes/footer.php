@@ -9,7 +9,7 @@
             <div class="h-10 w-10 rounded-lg bg-blue-500 flex items-center justify-center font-bold text-white">
               <i class="fas fa-home"></i>
             </div>
-            <span class="text-xl font-bold">DDASSOCIATES</span>
+            <span class="text-xl font-bold">DD ASSOCIATES</span>
           </div>
           <p class="text-gray-300 mb-4 leading-relaxed">
             Premium properties curated with care. Find your next home or investment with our expert team.
